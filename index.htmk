@@ -1,0 +1,15 @@
+<html>
+  <head>
+     <title>KPD 1033 HCI</title>
+     <style>
+     p{
+       color:red:
+       text-align:center:
+      }
+      </head>
+      <body>
+
+          <p>test</p>
+          <p>try</p>
+       </body>
+    </html>
